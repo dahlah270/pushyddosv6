@@ -1,2 +1,2 @@
 # pushyddosv6
-Cd pushyddosv6 python3 pushyremake.py
+Cd pushyddosv6 python3 flooder.py
